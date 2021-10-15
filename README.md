@@ -47,6 +47,7 @@ O processo de Pull Request funciona da seguinte maneira:
 4. Pela interface do Github, envie um Pull Request.
 5. Deixe o fork público para facilitar a inspeção do código.
 6. Resolva o desafio da melhor maneira que puder;
+7. Não deves trabalhar na branch principal, crie a sua branch e trabalhe nela.
 
 
 Obs.: Não tente fazer o PUSH diretamente para ESTE repositório!
@@ -78,3 +79,11 @@ Dê uma olhada no `/layout`, lá você encontrará tudo o que precisa.
 ### Contato ou duvidas
 
 Faça o issue das tuas dúvidas nesse repositório [issues]() ou envie uma notificação para o email: desenvolvimento@snir.co.ao    
+
+
+## Experiência com o projeto 
+    # Descreva sua experiênca com o projeto, tanto na parte técnica quanto na parte teórica.
+
+## Futuro
+
+Descreva sobre possíveis planos para este projeto, melhorias ou alterações que você realizaria em prol de aumentar a qualidade no desenvolvimento.
