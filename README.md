@@ -44,10 +44,10 @@ O processo de Pull Request funciona da seguinte maneira:
 1. Faça um fork deste repositório (não clonar direto!);
 2. Faça seu projeto neste fork;
 3. Commit e suba as alterações para o SEU fork;
-4. Pela interface do Github, envie um Pull Request.
-5. Deixe o fork público para facilitar a inspeção do código.
+4. Pela interface do Github, envie um Pull Request'
+5. Deixe o fork público para facilitar a inspeção do código;
 6. Resolva o desafio da melhor maneira que puder;
-7. Não deves trabalhar na branch principal, crie a sua branch e trabalhe nela.
+7. Não deves trabalhar na branch principal, crie a sua branch e trabalhe nela;
 
 
 Obs.: Não tente fazer o PUSH diretamente para ESTE repositório!
