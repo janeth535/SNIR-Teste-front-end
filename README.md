@@ -33,7 +33,6 @@ Você pode usar qualquer padrão / abordagem de sua preferência, mas tente mant
 
 O objetivo deste desafio é avaliar suas habilidades de HTML, CSS, Javascript e React API e abordagem geral ao compor um aplicativo da web simples com um conjunto de telas e um feed de API. Também avaliaremos a saída HTML, CSS e JS.
 
-## Começando
 
 **ATENÇÃO**
 
