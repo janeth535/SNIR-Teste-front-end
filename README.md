@@ -42,7 +42,7 @@ O objetivo deste desafio é avaliar suas habilidades de HTML, CSS, Javascript e 
 **Envie-nos o seu código de duas maneiras.**
 
 1.  Envie-nos pelo Telegram;
-2.  Envie-nos um email com o seu código em formato zip para: snirdev@co.ao
+2.  Envie-nos um email com o seu código em formato zip para: desenvolvimento@snir.co.ao
 
 ### Pontos
 
@@ -69,4 +69,4 @@ Dê uma olhada no `/layout`, lá você encontrará tudo o que precisa.
 
 ### Contato ou duvidas
 
-Faça o issue das tuas dúvidas nesse repositório [issues]() ou envie uma notificação para o email: snirdev@co.ao    
+Faça o issue das tuas dúvidas nesse repositório [issues]() ou envie uma notificação para o email: desenvolvimento@snir.co.ao    
