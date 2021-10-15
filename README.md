@@ -1,6 +1,6 @@
 <img width="179" alt="screen logo" src="https://scontent.flad7-1.fna.fbcdn.net/v/t1.18169-9/11046725_1600039606875872_4680677208469794743_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGIrMeMH3mWJlQNb8Gsbj1HfkmlAI9ovZ5-SaUAj2i9nnftNmpwCdrNcSZpaVLSR607StcOshuh5qLhnW5jrQeH&_nc_ohc=OCycb_aER44AX8ze7-7&_nc_oc=AQn0-mTBLx8LCkbbr605jqngrG43U-Adqz5I0jb-Mj31N2dGf-O13UZT2f7DJ6G04NE&_nc_ht=scontent.flad7-1.fna&oh=d73fc465a7f72e887ad359ecc5175bfb&oe=618E9484">
 
-[GRUPO SNIR](http://snir.co.ao/) é uma Empresa de Direito Angolano, integralmente detida por cidadãos Angolanos, que centra a sua estratégia nas Tecnologias de Informação e Desenho de Processos de Negócios alinhado as tecnologias, de forma a dotar o mercado Angolano e Africano de soluções que vão desde os seguintes sectores: Governo, Banca, Finanças, Seguros, Sector Petrolífero, Telecomunicações, Transportes, Energia, Segurança, etc.
+[GRUPO SNIR](https://snir.co.ao/) é uma Empresa de Direito Angolano, integralmente detida por cidadãos Angolanos, que centra a sua estratégia nas Tecnologias de Informação e Desenho de Processos de Negócios alinhado as tecnologias, de forma a dotar o mercado Angolano e Africano de soluções que vão desde os seguintes sectores: Governo, Banca, Finanças, Seguros, Sector Petrolífero, Telecomunicações, Transportes, Energia, Segurança, etc.
 
 ## Sobre o desafio
 
