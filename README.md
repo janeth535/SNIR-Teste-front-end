@@ -4,9 +4,9 @@
 
 ## Sobre o desafio
 
-Este é um teste bastante simples, no qual você deve ser capaz de escrever um aplicativo React, usando as telas fornecidas como referência. Você precisará fazer solicitações a uma API para obter algum conteúdo JSON, filtrar os dados e imprimi-los na visualização.
+Este é um teste bastante simples, no qual você deve ser capaz de escrever um aplicativo React ou Flutter, usando as telas fornecidas como referência. Você precisará fazer solicitações a uma API para obter algum conteúdo JSON, filtrar os dados e imprimi-los na visualização.
 
-Você pode usar qualquer padrão / abordagem de sua preferência, mas tente mantê-lo simples. Nós o encorajamos a usar suas ferramentas e pacotes favoritos para construir um aplicativo React sólido.
+Você pode usar qualquer padrão / abordagem de sua preferência, mas tente mantê-lo simples. Nós o encorajamos a usar suas ferramentas e pacotes favoritos para construir um aplicativo React ou Flutter sólido.
 
 ### O aplicativo será um **todo list** com cinco paginas:
 
@@ -31,7 +31,7 @@ Você pode usar qualquer padrão / abordagem de sua preferência, mas tente mant
   _Após logar, todas as tuas informações serão apresentadas no seu perfil_
 
 
-O objetivo deste desafio é avaliar suas habilidades de HTML, CSS, Javascript e React API e abordagem geral ao compor um aplicativo da web simples com um conjunto de telas e um feed de API. Também avaliaremos a saída HTML, CSS e JS.
+O objetivo deste desafio é avaliar suas habilidades de HTML, CSS, Javascript e React ou Flutter API e abordagem geral ao compor um aplicativo da web simples com um conjunto de telas e um feed de API. Também avaliaremos a saída HTML, CSS e JS.
 
 
 **ATENÇÃO**
