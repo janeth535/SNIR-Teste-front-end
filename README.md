@@ -35,14 +35,23 @@ O objetivo deste desafio é avaliar suas habilidades de HTML, CSS, Javascript e 
 
 ## Começando
 
-1.  Fork este repositório para sua conta pessoal;
-2.  Crie uma branch com seu nome;
-3.  Resolva o desafio da melhor maneira que puder;
+**ATENÇÃO**
 
-**Envie-nos o seu código de duas maneiras.**
+Depois de implementar a solução, envie um pull request para este repositório pela interface do Github.
 
-1.  Envie-nos pelo Telegram;
-2.  Envie-nos um email com o seu código em formato zip para: desenvolvimento@snir.co.ao
+O nome da branch deve seguir o seguinte padrão: **nome-sobrenome**.
+
+O processo de Pull Request funciona da seguinte maneira:
+1. Faça um fork deste repositório (não clonar direto!);
+2. Faça seu projeto neste fork;
+3. Commit e suba as alterações para o SEU fork;
+4. Pela interface do Github, envie um Pull Request.
+5. Deixe o fork público para facilitar a inspeção do código.
+6. Resolva o desafio da melhor maneira que puder;
+
+
+Obs.: Não tente fazer o PUSH diretamente para ESTE repositório!
+
 
 ### Pontos
 
