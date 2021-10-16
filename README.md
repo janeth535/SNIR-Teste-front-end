@@ -68,7 +68,7 @@ Obs.: Não tente fazer o PUSH diretamente para ESTE repositório!
 
 #### API:
 
-Api que será utilizada está no nosso servidor, é essa: [SNIR API]().
+Api que será utilizada está no nosso servidor, é essa: [SNIR API](https://tlzora.deta.dev/).
 
 #### Telas / ativos / guia de estilo:
 
