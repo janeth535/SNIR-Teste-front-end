@@ -34,12 +34,10 @@ const MyTasks = () => (
     
         
         <h1>Tasks - 2</h1>
-        <p>Register your tasks and have a better monitoring of your activities</p>
         <div className="type">
             <img src={Caixa} alt="Pesquisa"/>
             <input type="text" placeholder="Find of tasks"/>
         </div>
-        <p>Register your tasks and have a better monitoring of your activities</p>
         <div className="inputt">
             <img src={CorretoLogo} alt="Pesquisa"/>
             <input type="text" placeholder="Find of tasks"/>
