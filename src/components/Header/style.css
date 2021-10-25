@@ -1,0 +1,39 @@
+.ContainerHeader {
+    width: 100%;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.ContainerHeader li {
+    list-style: none;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.8);
+    margin: 0 30px;
+}
+
+.activo {
+    font-weight: bold;
+    color: #B4ACF9;
+}
+
+.ContainerHeader nav {
+    display: flex;
+    align-items: center;
+}
+
+.ContainerHeader button {
+    width: 136px;
+    font-size: 18px;
+    height: 50px;
+    border-radius: 6px;
+    color: #2E2938;
+    background: none;
+    background-color: #B4ACF9;
+    border: none;
+    
+}

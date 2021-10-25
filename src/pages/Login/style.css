@@ -1,0 +1,84 @@
+.ContainerLogin {
+    color: #fff;
+    background: #2E2938;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ContainerLogin span {
+    color: #B4ACF9;
+}
+
+.GlobalGoogle {
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+}
+
+
+.TextGoogle {
+    width: 297px;
+    height: 60px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #363041;
+}
+
+.TextGoogle {
+    text-decoration: none;
+    color: #fff;
+}
+
+.TextGoogle p {
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 20px;
+}
+.Google {
+    width: 64px;
+    height: 60px;
+    background-color: #B4ACF9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px 0px 0px 6px;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+.input label {
+    font-weight: 500;
+    font-size: 16px;
+    color: #B4ACF9;
+}
+
+.btn {
+    margin-top: 10px;
+    width: 366px;
+    height: 60px;
+    background-color: #B4ACF9;
+    color: #2E2938;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
+.input input {
+    width: 325px;
+    padding: 20px;
+    background: #363041;
+    border-radius: 6px;
+    border: none;
+    background: none;
+    border-radius: 6px;
+    background: #363041;
+    outline: 0;
+}

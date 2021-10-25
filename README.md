@@ -1,89 +1,70 @@
-<img width="179" alt="screen logo" src="https://scontent.flad7-1.fna.fbcdn.net/v/t1.18169-9/11046725_1600039606875872_4680677208469794743_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGIrMeMH3mWJlQNb8Gsbj1HfkmlAI9ovZ5-SaUAj2i9nnftNmpwCdrNcSZpaVLSR607StcOshuh5qLhnW5jrQeH&_nc_ohc=OCycb_aER44AX8ze7-7&_nc_oc=AQn0-mTBLx8LCkbbr605jqngrG43U-Adqz5I0jb-Mj31N2dGf-O13UZT2f7DJ6G04NE&_nc_ht=scontent.flad7-1.fna&oh=d73fc465a7f72e887ad359ecc5175bfb&oe=618E9484">
+# Getting Started with Create React App
 
-[GRUPO SNIR](https://snir.co.ao/) é uma Empresa de Direito Angolano, integralmente detida por cidadãos Angolanos, que centra a sua estratégia nas Tecnologias de Informação e Desenho de Processos de Negócios alinhado as tecnologias, de forma a dotar o mercado Angolano e Africano de soluções que vão desde os seguintes sectores: Governo, Banca, Finanças, Seguros, Sector Petrolífero, Telecomunicações, Transportes, Energia, Segurança, etc.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Sobre o desafio
+## Available Scripts
 
-Este é um teste bastante simples, no qual você deve ser capaz de escrever um aplicativo React ou Flutter, usando as telas fornecidas como referência. Você precisará fazer solicitações a uma API para obter algum conteúdo JSON, filtrar os dados e imprimi-los na visualização.
+In the project directory, you can run:
 
-Você pode usar qualquer padrão / abordagem de sua preferência, mas tente mantê-lo simples. Nós o encorajamos a usar suas ferramentas e pacotes favoritos para construir um aplicativo React ou Flutter sólido.
+### `yarn start`
 
-### O aplicativo será um **todo list** com cinco paginas:
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-* **Marketplace page:** a pagina que irá introduzir a aplicação;
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-  _Pense nos dizeres da aplicação que em seguida te levarão até a aplicação principal_
+### `yarn test`
 
-* **Sign In page:** pagina do login;
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-  _O login será feito tanto com o google, facebook ou suas credências da API_
+### `yarn build`
 
-* **Dashboard page:** pagina inicial da aplicação;
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-  _Pagina onde conterá todas as tasks já registrados na aplicação_
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-* **Add Task page:** pagina para adicionar tarefa;
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-  _Adicionaremos e faremos edição das mesmas a partir desta página_
+### `yarn eject`
 
-* **Profile page:** pagina do perfil;
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-  _Após logar, todas as tuas informações serão apresentadas no seu perfil_
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-O objetivo deste desafio é avaliar suas habilidades de HTML, CSS, Javascript e React ou Flutter API e abordagem geral ao compor um aplicativo da web simples com um conjunto de telas e um feed de API. Também avaliaremos a saída HTML, CSS e JS.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Learn More
 
-**ATENÇÃO**
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Depois de implementar a solução, envie um pull request para este repositório pela interface do Github.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-O nome da branch deve seguir o seguinte padrão: **nome-sobrenome**.
+### Code Splitting
 
-O processo de Pull Request funciona da seguinte maneira:
-1. Faça um fork deste repositório (não clonar direto!);
-2. Faça seu projeto neste fork;
-3. Commit e suba as alterações para o SEU fork;
-4. Pela interface do Github, envie um Pull Request'
-5. Deixe o fork público para facilitar a inspeção do código;
-6. Resolva o desafio da melhor maneira que puder;
-7. Não deves trabalhar na branch principal, crie a sua branch e trabalhe nela;
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
 
-Obs.: Não tente fazer o PUSH diretamente para ESTE repositório!
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+### Making a Progressive Web App
 
-### Pontos
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-* Escreva um bom README com informações básicas (por exemplo: como iniciar o projeto e como construí-lo);
-* Sinta-se à vontade para trabalhar e aprimorar os designs disponíveis. Pense neles como diretrizes.
-* Prefira usar metodologia css, como BEM, ITCSS, etc;
-* Fazer perguntas é bom. Não vamos penalizá-lo por fazer perguntas;
-* O servidor de API às vezes é lento, portanto, pense em carregar e em estados vazios em todo o seu aplicativo;
-* Estamos procurando por sinais de que você entende conceitos como eventos, promessas e reatividade, e como esses conceitos são implementados em Javascript;
-* O histórico do git será avaliado;
-* Seu código será avaliado por: semântica, estrutura, legibilidade, tamanho, elegância (entre outros fatores);
+### Advanced Configuration
 
-### Informação necessária
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-#### API:
+### Deployment
 
-Api que será utilizada está no nosso servidor, é essa: [SNIR API](https://tlzora.deta.dev/).
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-#### Telas / ativos / guia de estilo:
+### `yarn build` fails to minify
 
-Dê uma olhada no `/layout`, lá você encontrará tudo o que precisa.
-
-[Protótipo da aplicação e guia de estilo](https://www.figma.com/file/TVT3dZ8snysCn9XgLmtjJX/SnirTask?node-id=0%3A1)  
-
-### Contato ou duvidas
-
-Faça o issue das tuas dúvidas nesse repositório [issues]() ou envie uma notificação para o email: desenvolvimento@snir.co.ao    
-
-
-## Experiência com o projeto 
-    # Descreva sua experiênca com o projeto, tanto na parte técnica quanto na parte teórica.
-
-## Futuro
-
-Descreva sobre possíveis planos para este projeto, melhorias ou alterações que você realizaria em prol de aumentar a qualidade no desenvolvimento.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
