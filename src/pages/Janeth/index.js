@@ -36,11 +36,11 @@ const MyTasks = () => (
         <h1>Tasks - 2</h1>
         <div className="type">
             <img src={Caixa} alt="Pesquisa"/>
-            <input type="text" placeholder="Find of tasks"/>
+            <p><span>Solve computer logic problems</span></p>
         </div>
         <div className="inputt">
             <img src={CorretoLogo} alt="Pesquisa"/>
-            <input type="text" placeholder="Find of tasks"/>
+            <p>Solve computer logic problems</p>
         </div>
       </div>
   </div>
